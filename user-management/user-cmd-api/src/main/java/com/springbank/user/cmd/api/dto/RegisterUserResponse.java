@@ -1,5 +1,7 @@
 package com.springbank.user.cmd.api.dto;
 
+import com.springbank.user.core.dto.BaseResponse;
+
 import java.util.Objects;
 
 public class RegisterUserResponse extends BaseResponse {
