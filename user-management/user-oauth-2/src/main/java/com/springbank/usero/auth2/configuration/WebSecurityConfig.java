@@ -54,7 +54,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     public AuthenticationManager authenticationManager() throws Exception {
-
+        return null;
     }
 
 }
